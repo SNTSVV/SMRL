@@ -1,3 +1,5 @@
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=VOPyBHsjI6g" target="_blank"><img src="http://img.youtube.com/vi/9kx6u9LsGxs/0.jpg" alt="SMRL tool" width="540" height="380" border="10" /></a>
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=9kx6u9LsGxs" target="_blank"><img src="http://img.youtube.com/vi/9kx6u9LsGxs/0.jpg" alt="SMRL tool" width="540" height="380" border="10" /></a>
 
 ## Overview 
