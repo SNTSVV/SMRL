@@ -29,7 +29,7 @@ You can install the SMRL Eclipse plug-in in your current Eclipse configuration.
 
 The SMRL Eclipse plug-in depends on XText 2.17+
 
-It can be installed following the standard plugin installation procedures, from the zip archive reachable at the following URL [https://dropit.uni.lu/invitations?share=b8fdf9fae400f8517996&dl=0](https://dropit.uni.lu/invitations?share=b8fdf9fae400f8517996&dl=0).
+It can be installed following the standard plugin installation procedures, from the zip archive reachable at the following URL [https://dropit.uni.lu/invitations?share=3515a659ff7d91dcddbc&dl=0](https://dropit.uni.lu/invitations?share=3515a659ff7d91dcddbc&dl=0).
 
 
 
