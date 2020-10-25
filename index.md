@@ -31,5 +31,13 @@ The SMRL Eclipse plug-in depends on XText 2.17+
 
 It can be installed following the standard plugin installation procedures, from the zip archive reachable at the following URL [https://dropit.uni.lu/invitations?share=3515a659ff7d91dcddbc&dl=0](https://dropit.uni.lu/invitations?share=3515a659ff7d91dcddbc&dl=0).
 
+### Source code
+
+SRML source code is available on github.
+
+SMRL Library: https://github.com/SNTSVV/SMRL_Library/
+
+SMRL Eclipse plug-in: https://github.com/SNTSVV/SMRL_EclipsePlugin/
+
 
 
