@@ -35,9 +35,9 @@ It can be installed following the standard plugin installation procedures, from 
 
 SRML source code is available on github.
 
-SMRL Library: https://github.com/SNTSVV/SMRL_Library/
+SMRL Library: [https://github.com/SNTSVV/SMRL_Library/](https://github.com/SNTSVV/SMRL_Library/)
 
-SMRL Eclipse plug-in: https://github.com/SNTSVV/SMRL_EclipsePlugin/
+SMRL Eclipse plug-in: [https://github.com/SNTSVV/SMRL_EclipsePlugin/](https://github.com/SNTSVV/SMRL_EclipsePlugin/)
 
 
 
