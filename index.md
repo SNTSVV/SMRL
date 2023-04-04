@@ -15,8 +15,9 @@ The approach will be presented at IEEE International Conference on Software Test
 
 ### SMRL Toolset
 
-We provide the whole SMRL toolset in a replicability package available at https://zenodo.org/record/4752931 (https://doi.org/10.5281/zenodo.4752931)
+We provide the whole SMRL toolset in a replicability package available at https://zenodo.org/record/4752931 (https://doi.org/10.5281/zenodo.4752931).
 
+A newer replicability package is available at https://zenodo.org/record/7702754#.ZCrt1_bMKUk (https://zenodo.org/record/7702754#.ZCrt1_bMKUk).
 
 We suggest to follow the replicability script to install SMRL.
 
